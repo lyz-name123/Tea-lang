@@ -1,12 +1,12 @@
 Hello world示例
 
-package main
+```package main
 
 import "std/console"
 
 func main() {
     console.println("Hello, Tea!")
-}
+}```
 
 
 示例系统内核，语言在设计阶段，暂时不可用
